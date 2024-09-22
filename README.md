@@ -20,7 +20,7 @@
 - Download or clone the repository
 
 ```
-
+https://raghavendra8494.github.io/chess-game/
 ```
 
 - Go to the directory
